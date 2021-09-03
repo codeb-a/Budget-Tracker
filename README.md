@@ -4,7 +4,7 @@
 
 ## Description
 
-This application helps the user keep track of their purchases weather they are online or offline. If the user goes offline their entires will be added once they come back online.
+This application helps the user keep track of their purchases weather they are online or offline. If the user goes offline their entries will be added once they come back online.
 
 ![](images/budgetpic.png)
 
