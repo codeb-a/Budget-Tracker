@@ -17,7 +17,7 @@ This application helps the user keep track of their purchases weather they are o
 
 ## Installation
 
-You can view the deployed site here
+You can view the deployed site here https://budgetingtracker.herokuapp.com/
 
 ## Usage
 
